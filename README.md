@@ -1,2 +1,2 @@
 # WindowsBox
-Application for Operating System Windows
+Application for Windows OS
