@@ -19,7 +19,9 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-
+127.0.0.1 retiremely.com
+127.0.0.1 zinrora.pw
+127.0.0.1 padsims.com
 127.0.0.1 2mdn.net
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 ad.doubleclick.net
